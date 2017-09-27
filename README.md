@@ -10,3 +10,4 @@ Transport for London are looking for a new bike system: a network of docking sta
 ## Authors
 - Ainsley Chang
 - Alex Scott-Tonge
+- Tom Spencer
